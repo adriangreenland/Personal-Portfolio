@@ -1,0 +1,17 @@
+{
+  "name": "personalportfolio",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "watch": "parcel src/index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^4.9.0"
+  },
+  "devDependencies": {},
+  "keywords": [],
+  "description": ""
+}
